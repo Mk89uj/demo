@@ -1,2 +1,1 @@
-# demo
-code
+This is the simple expert system that predicts the Nephrology diseases based on symptoms given by users as input . Based on the input , the expert system will predict the possible disease , and its medication, and the food should be taken and the food should be avoided .
